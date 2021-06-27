@@ -1,3 +1,3 @@
 # prometheus
 
-Bringing fire to mankind.
+Bringing fire to mankind!
